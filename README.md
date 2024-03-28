@@ -48,11 +48,15 @@ The analysis is therefore guided by the question: *"How do the complex interacti
   * Scikit Learn: for machine learning algorithms
 
 ## Data Source
-"World Disaster Risk Dataset" by Mrinal Tyagi, accessed via [Kaggle](https://www.kaggle.com/datasets/tr1gg3rtrash/global-disaster-risk-index-time-series-dataset).
+["World Disaster Risk Dataset"](https://www.kaggle.com/datasets/tr1gg3rtrash/global-disaster-risk-index-time-series-dataset) by Mrinal Tyagi, accessed via Kaggle.
 
 This dataset of the WorldRiskIndex was originally sourced from the WorldRiskReport 2021 and includes four additional dimensions that are classifications of the WorldRiskIndex, Exposure, Vulnerability, and Susceptibility into the ordinal categories very low, low, medium, high, and very high based on their scores. These classifications and the thresholds for each category are defined in the WorldRiskReport.
 
 The original dataset is part of the WorldRiskReport which is published annually by [Bündnis Entwicklung Hilft](https://www.entwicklung-hilft.de/). The basic model of the WorldRiskIndex was developed in collaboration with the United Nations University Institute for Environment and Human Security (UNU-EHS). Since 2018, the Institute for International Law of Peace and Armed Conflict (IFHV) at the Ruhr-Universität Bochum has taken over the calculation and further developed the model conceptually and methodologically. In 2022, the WorldRiskIndex was published with a completely revised model that includes 100 indicators from publicly available databases worldwide. 
+
+Supportive datasets:
+* ["Climate at a Glance: Global Time Series"](https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series), NOAA National Centers for Environmental Information
+* ["Human Development Index"](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI), United Nations Development Program (UNDP)
 
 ## Cleaning Procedures
 * Missing values were inserted with data from the original reports published by [Bündnis Entwicklung Hilft](https://www.entwicklung-hilft.de/).
