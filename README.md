@@ -63,5 +63,5 @@ Supportive datasets:
 * Inconsistent country names were unified to their official names as of 2023.
 
 ## Final Project Presentation
-The final project presentation was created using Tableau Public and can be viewed in the [Tableau Storyboard](https://public.tableau.com/app/profile/sarah.tischer/viz/UnderstandingDisasterRiskwiththeWorldRiskIndex/UnderstandingDisasterRisk?publish=yes). The storyboard provides a comprehensive overview of the data-driven narrative developed throughout the project.
+The final project presentation was created using Tableau Public and can be viewed in the [Tableau Storyboard](https://public.tableau.com/app/profile/sarahtischer/viz/UnderstandingDisasterRiskwiththeWorldRiskIndex/UnderstandingDisasterRisk). The storyboard provides a comprehensive overview of the data-driven narrative developed throughout the project.
   
